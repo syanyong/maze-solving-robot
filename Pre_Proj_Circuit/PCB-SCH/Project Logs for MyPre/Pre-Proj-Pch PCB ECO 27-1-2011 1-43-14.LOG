@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC2_1 Pin=P5-2
+Added Component: Designator=D?(diode)
+Added Pin To Net: NetName=NetC2_1 Pin=D?-2
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=P5-2
+Added Net: Name=NetD?_1
+Added Member To Class: ClassName=Pre-Proj-Sch Member=Component D? DIODE

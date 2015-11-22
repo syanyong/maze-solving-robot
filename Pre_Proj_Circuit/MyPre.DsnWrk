@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=PCB-SCH\MyPre.PrjPcb
+[Project2]
+ProjectPath=D:\A-O-W-N-O-F-F-I-C-E\P r e p r o j e c t T r a c k L i n e\PCB\Lib\Or_IL\Or_IL.LibPkg
+[Project3]
+ProjectPath=..\MyTracing\PCB\Remote-Project\Remote-Project.PrjPcb

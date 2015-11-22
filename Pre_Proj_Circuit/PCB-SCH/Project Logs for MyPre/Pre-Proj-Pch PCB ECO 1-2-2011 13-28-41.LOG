@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=+5 Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=+5 Pin=Q1-3
+Removed Member From Class: ClassName=Pre-Proj-Sch Member=C1
+Removed Member From Class: ClassName=Pre-Proj-Sch Member=C2
+Removed Member From Class: ClassName=Pre-Proj-Sch Member=Q1
+Removed Member From Class: ClassName=Pre-Proj-Sch Member=R2
+Change Component Comment : Designator=F1 Old Comment=7805 New Comment=L7805CV
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=D?-2
+Added Pin To Net: NetName=NetC3_1 Pin=F1-1
+Added Net: Name=NetC3_1

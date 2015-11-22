@@ -1,0 +1,16 @@
+IF TurnOver() address is rounting_count and rounting[rounting_count] THEN
+before TurnOver() 1 step address is rounting_count-1 
+
+WHEN TurnOver() used we will change recoder FROM rounting_count-1 TO rounting_count
+
+Data of rounting_count-1 Is by case after this\
+IF prv_walk is 4 THEN
+rounting[rounting_count-1] = TurnRight
+ELSE IF prv_walk is 4 THEN
+rounting[rounting_count-1] = TurnRight
+ELSE IF prv_walk is 3 THEN
+rounting[rounting_count-1] = Forward
+ELSE IF prv_walk is 6 THEN
+rounting[rounting_count-1] = TurnRight
+ELSE IF prv_walk is 5 THEN
+rounting[rounting_count-1] = Forward
